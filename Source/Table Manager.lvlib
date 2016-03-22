@@ -6,9 +6,10 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Enum" Type="Folder">
 		<Item Name="Enum Selected Value.vi" Type="VI" URL="../Enum/Enum Selected Value.vi"/>
-		<Item Name="Enum Value Change.vi" Type="VI" URL="../../TagSelectModule/Source/editor node/Enum Value Change.vi"/>
-		<Item Name="Move Enum.vi" Type="VI" URL="../../TagSelectModule/Source/editor node/Move Enum.vi"/>
-		<Item Name="string to dt enum.vi" Type="VI" URL="../../TagSelectModule/Source/editor node/string to dt enum.vi"/>
+		<Item Name="Enum Value Change.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/Enum Value Change.vi"/>
+		<Item Name="Move Enum.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/Move Enum.vi"/>
+		<Item Name="string to dt enum.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/string to dt enum.vi"/>
+		<Item Name="Test Enum Helpers.vi" Type="VI" URL="../Enum/Test Enum Helpers.vi"/>
 	</Item>
 	<Item Name="Column.lvclass" Type="LVClass" URL="../Column/Column.lvclass"/>
 	<Item Name="Data Grid.lvclass" Type="LVClass" URL="../Data Grid/Data Grid.lvclass"/>
