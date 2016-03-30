@@ -4,21 +4,29 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Columns" Type="Folder">
+		<Item Name="Column.lvclass" Type="LVClass" URL="../Column/Column.lvclass"/>
+		<Item Name="DataGridEnum Column.lvclass" Type="LVClass" URL="../DataGridEnum Column/DataGridEnum Column.lvclass"/>
+		<Item Name="List Box Enum Column.lvclass" Type="LVClass" URL="../Listbox Enum Column/List Box Enum Column.lvclass"/>
+		<Item Name="Listbox TBDT.lvclass" Type="LVClass" URL="../Listbox TBDT/Listbox TBDT.lvclass"/>
+		<Item Name="Mapping Column.lvclass" Type="LVClass" URL="../Mapping Column/Mapping Column.lvclass"/>
+		<Item Name="String Column.lvclass" Type="LVClass" URL="../String Column/String Column.lvclass"/>
+		<Item Name="Tag Column.lvclass" Type="LVClass" URL="../Tag Column/Tag Column.lvclass"/>
+	</Item>
 	<Item Name="Enum" Type="Folder">
 		<Item Name="Enum Selected Value.vi" Type="VI" URL="../Enum/Enum Selected Value.vi"/>
 		<Item Name="Enum Value Change.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/Enum Value Change.vi"/>
 		<Item Name="Move Enum.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/Move Enum.vi"/>
-		<Item Name="string to dt enum.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/string to dt enum.vi"/>
+		<Item Name="string to enum.vi" Type="VI" URL="../Enum/string to enum.vi"/>
 		<Item Name="Test Enum Helpers.vi" Type="VI" URL="../Enum/Test Enum Helpers.vi"/>
 	</Item>
-	<Item Name="Column.lvclass" Type="LVClass" URL="../Column/Column.lvclass"/>
-	<Item Name="Data Grid.lvclass" Type="LVClass" URL="../Data Grid/Data Grid.lvclass"/>
-	<Item Name="Data Type Column.lvclass" Type="LVClass" URL="../Data Type Column/Data Type Column.lvclass"/>
-	<Item Name="DataGridEnum Column.lvclass" Type="LVClass" URL="../DataGridEnum Column/DataGridEnum Column.lvclass"/>
+	<Item Name="Table Managers" Type="Folder">
+		<Item Name="Cell Change.ctl" Type="VI" URL="../Table Manager/Cell Change.ctl"/>
+		<Item Name="Data Grid.lvclass" Type="LVClass" URL="../Data Grid/Data Grid.lvclass"/>
+		<Item Name="Detect Cell Change.vi" Type="VI" URL="../Table Manager/Detect Cell Change.vi"/>
+		<Item Name="Internal Reg Events.ctl" Type="VI" URL="../Data Grid/Internal Reg Events.ctl"/>
+		<Item Name="Multi Column Listbox.lvclass" Type="LVClass" URL="../Listbox/Multi Column Listbox.lvclass"/>
+		<Item Name="Table Manager.lvclass" Type="LVClass" URL="../Table Manager/Table Manager.lvclass"/>
+	</Item>
 	<Item Name="Line.lvclass" Type="LVClass" URL="../Line/Line.lvclass"/>
-	<Item Name="List Box Enum Column.lvclass" Type="LVClass" URL="../Listbox Enum Column/List Box Enum Column.lvclass"/>
-	<Item Name="Multi Column Listbox.lvclass" Type="LVClass" URL="../Listbox/Multi Column Listbox.lvclass"/>
-	<Item Name="String Column.lvclass" Type="LVClass" URL="../String Column/String Column.lvclass"/>
-	<Item Name="Table Manager.lvclass" Type="LVClass" URL="../Table Manager/Table Manager.lvclass"/>
-	<Item Name="Tag Channel Column.lvclass" Type="LVClass" URL="../Tag Channel Column/Tag Channel Column.lvclass"/>
 </Library>
