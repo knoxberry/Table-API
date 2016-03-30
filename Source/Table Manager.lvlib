@@ -15,8 +15,8 @@
 	</Item>
 	<Item Name="Enum" Type="Folder">
 		<Item Name="Enum Selected Value.vi" Type="VI" URL="../Enum/Enum Selected Value.vi"/>
-		<Item Name="Enum Value Change.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/Enum Value Change.vi"/>
 		<Item Name="Move Enum.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/Move Enum.vi"/>
+		<Item Name="overlay enum on cell.vi" Type="VI" URL="../Enum/overlay enum on cell.vi"/>
 		<Item Name="string to enum.vi" Type="VI" URL="../Enum/string to enum.vi"/>
 		<Item Name="Test Enum Helpers.vi" Type="VI" URL="../Enum/Test Enum Helpers.vi"/>
 	</Item>
