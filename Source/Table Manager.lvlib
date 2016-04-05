@@ -4,6 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="ATM" Type="Folder">
+		<Item Name="avaiable tag menu action.vi" Type="VI" URL="../Available Tag Menu/avaiable tag menu action.vi"/>
+		<Item Name="available tag dialog.vi" Type="VI" URL="../Available Tag Menu/available tag dialog.vi"/>
+		<Item Name="available tags menu.vi" Type="VI" URL="../Available Tag Menu/available tags menu.vi"/>
+	</Item>
 	<Item Name="Columns" Type="Folder">
 		<Item Name="Column.lvclass" Type="LVClass" URL="../Column/Column.lvclass"/>
 		<Item Name="DataGridEnum Column.lvclass" Type="LVClass" URL="../DataGridEnum Column/DataGridEnum Column.lvclass"/>
@@ -15,7 +20,7 @@
 	</Item>
 	<Item Name="Enum" Type="Folder">
 		<Item Name="Enum Selected Value.vi" Type="VI" URL="../Enum/Enum Selected Value.vi"/>
-		<Item Name="Move Enum.vi" Type="VI" URL="../../../TagSelectModule/Source/editor node/Move Enum.vi"/>
+		<Item Name="Move Enum.vi" Type="VI" URL="../Enum/Move Enum.vi"/>
 		<Item Name="overlay enum on cell.vi" Type="VI" URL="../Enum/overlay enum on cell.vi"/>
 		<Item Name="string to enum.vi" Type="VI" URL="../Enum/string to enum.vi"/>
 		<Item Name="Test Enum Helpers.vi" Type="VI" URL="../Enum/Test Enum Helpers.vi"/>
