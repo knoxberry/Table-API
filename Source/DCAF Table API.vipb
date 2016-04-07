@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-04-07 00:13:55" Creator="Benjamin Celis" Comments="" ID="3069903a93be3c4fcc85de1fd87bbb07">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-04-07 00:40:37" Creator="Benjamin Celis" Comments="" ID="03016bb03783bf969b17d762618f36f7">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_DCAF_Table_API</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
