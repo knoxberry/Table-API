@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-04-19 14:54:12" Creator="Benjamin Celis" Comments="" ID="4e98d7367d7a5c9f096a173a326844b6">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-04-19 18:07:22" Creator="Benjamin Celis" Comments="" ID="8dd07c7f83eb610cde3eb8b4248ab389">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_DCAF_Table_API</Package_File_Name>
     <Library_Version>1.0.0.6</Library_Version>
@@ -16,7 +16,9 @@
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies/>
+    <Package_Dependencies>
+      <Additional_External_Dependencies>ni_lib_config_editor &gt;=2.1.1.70</Additional_External_Dependencies>
+    </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
@@ -211,7 +213,7 @@
         <Path>Table Manager</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>90CF242360380EFC8373C858CE2B79DC</GUID>
+      <GUID>AED063F96665D0187351E7E8E72D9B04</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -288,7 +290,7 @@
         <Path>Table Manager\Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9E4494D02F1E9A2126A96346E43898F4</GUID>
+      <GUID>5E6907AFF099520E83794D166FAF9F87</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
