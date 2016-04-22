@@ -1,6 +1,6 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-04-22 16:22:08" Creator="Benjamin Celis" Comments="" ID="b228491ea72dd13df54b74f5479d972e">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-04-22 17:21:51" Creator="Benjamin Celis" Comments="" ID="c95d41dcf5c4b7705044978d45bd0d9b">
   <Library_General_Settings>
-    <Package_File_Name>National_Instruments_lib_DCAF_Table_API</Package_File_Name>
+    <Package_File_Name>NI_lib_DCAF_Table_API</Package_File_Name>
     <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
@@ -214,7 +214,7 @@
         <Path>Table Manager</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8DAFA2BCB4CF39C8263D969670C8B21C</GUID>
+      <GUID>CF1188AD033F938D29CC88CF2AD25B9F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -291,7 +291,7 @@
         <Path>Table Manager\Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>650AA0AC17402C4FCBBAB3D940F0358E</GUID>
+      <GUID>843EB9AB6119B9BDDB42C109497D97C7</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
