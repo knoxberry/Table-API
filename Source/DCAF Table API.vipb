@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-04-19 18:07:22" Creator="Benjamin Celis" Comments="" ID="8dd07c7f83eb610cde3eb8b4248ab389">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-04-22 16:22:08" Creator="Benjamin Celis" Comments="" ID="b228491ea72dd13df54b74f5479d972e">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_DCAF_Table_API</Package_File_Name>
     <Library_Version>1.0.0.6</Library_Version>
@@ -17,6 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
+      <Additional_External_Dependencies>mike_king_lib_labview_datagridview &gt;=1.0.3.15</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_config_editor &gt;=2.1.1.70</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
@@ -213,7 +214,7 @@
         <Path>Table Manager</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AED063F96665D0187351E7E8E72D9B04</GUID>
+      <GUID>8DAFA2BCB4CF39C8263D969670C8B21C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -290,7 +291,7 @@
         <Path>Table Manager\Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E6907AFF099520E83794D166FAF9F87</GUID>
+      <GUID>650AA0AC17402C4FCBBAB3D940F0358E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
