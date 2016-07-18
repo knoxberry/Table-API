@@ -18,6 +18,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Test" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Table Test configuration.lvclass" Type="LVClass" URL="../Test Vis/module/configuration/Table Test configuration.lvclass"/>
+			<Item Name="Table Test Editor Node.lvclass" Type="LVClass" URL="../Test Vis/editor node/Table Test Editor Node.lvclass"/>
+			<Item Name="MCLB Test.vi" Type="VI" URL="../Test Vis/MCLB Test.vi"/>
+			<Item Name="Test Columns.vi" Type="VI" URL="../Test Vis/Test Columns.vi"/>
+		</Item>
+		<Item Name="Define Enum Column.vi" Type="VI" URL="../Mapping Column/Define Enum Column.vi"/>
 		<Item Name="Table Manager.lvlib" Type="Library" URL="../Table Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -132,6 +140,7 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="RefreshUI Event.vi" Type="VI" URL="../Test Vis/editor node/RefreshUI Event.vi"/>
 			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

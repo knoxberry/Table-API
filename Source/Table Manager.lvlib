@@ -33,7 +33,5 @@
 		<Item Name="Multi Column Listbox.lvclass" Type="LVClass" URL="../Listbox/Multi Column Listbox.lvclass"/>
 		<Item Name="Table Manager.lvclass" Type="LVClass" URL="../Table Manager/Table Manager.lvclass"/>
 	</Item>
-	<Item Name="Test" Type="Folder"/>
 	<Item Name="Line.lvclass" Type="LVClass" URL="../Line/Line.lvclass"/>
-	<Item Name="Main Test.vi" Type="VI" URL="../Test Vis/Main Test.vi"/>
 </Library>
