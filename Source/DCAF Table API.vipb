@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-05-18 16:52:14" Creator="Benjamin Celis" Comments="" ID="0a49864b6f9b56866556cd599b7476fb">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-03-30 17:43:56" Modified_Date="2016-07-20 14:47:45" Creator="Benjamin Celis" Comments="" ID="9edd38f7240cc8254c8c48aaa90d2243">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_DCAF_Table_API</Package_File_Name>
-    <Library_Version>1.0.0.7</Library_Version>
+    <Library_Version>1.0.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\Table API</Library_Output_Folder>
@@ -115,6 +115,9 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>Test Vis</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
     <Licensing_and_Activation>
@@ -214,7 +217,7 @@
         <Path>Table Manager</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E57C7074229FBBAA3FE7DE8EA21A36C7</GUID>
+      <GUID>5AC3DEAA722592EA5E13FFAA09736DA7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -291,7 +294,7 @@
         <Path>Table Manager\Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EB49306C96DF959A5E37DD39D80F876F</GUID>
+      <GUID>2308DE738AD9B090E9A12098E2EB6DD3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
